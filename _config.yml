@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,73 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+# Site Settings
+baseurl: ""
+url : "https://luis-raygada.github.io"
+
+# Blog Settings
+theme_settings :
+  title : Luis Raygada
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/luis-raygada.jpg
+    username : Luis Raygada
+    description : Hi, I’m Luis, I am an MBA graduate, systems engineer, and entrepreneur. I thrive in fast-paced, innovative organizations where I can use my leadership and problem-solving skills to solve complex challenges.
+    experience :
+      - start : 2020-01-20
+        end : 2020-04-30
+        experience : Micron, Edge Computing Consultant (MBA Capstone Project)
+      - start : 2019-05-20
+        end : 2020-08-09
+        experience : Amazon Web Services, Senior Product Manager Technical - Intern
+      - start : 2017-04-01
+        end : 2018-07-30
+        experience : IBM, Innovation Team Leader
+      - start : 2015-04-01
+        end : 2017-03-30
+        experience : IBM, Innovation Leader
+      - start : 2012-04-01
+        end : 2015-03-30
+        experience : IBM, Innovation Specialist
+      - start : 2011-01-01
+        end : 2012-03-30
+        experience : IBM, IT Developer / IT Specialist
+    skills : 
+      - skill : Cloud Computing
+        value : 85  # Percent value
+      - skill : Program Management
+        value : 80  # Percent value
+      - skill : Product Management
+        value : 75  # Percent value
+        
+  # Icons
+  icons :
+    email: lraygada@tepper.cmu.edu # Full email address, e.g. "sample@google.com"
+    linkedin: https://www.linkedin.com/in/luis-raygada/ # Full URL 
+    github: luis-raygada
+    gitlab: 
+    bitbucket: 
+    google_plus:
+    twitter:
+    youtube:
+    facebook:
+    instagram:
+
+  # Disqus
+  disqus_shortname :
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
+>>>>>>> 9bfb7cd... initial commit
