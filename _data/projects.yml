@@ -4,8 +4,8 @@
     url :  # Full URL
     image : # path: assets/project/
     date : 2020.04.20
-    title : Edge AI & Edge Computing - GTM Strategy
-    summary : This is Dummy
+    title : Edge AI & Edge Computing
+    summary : Edge AI Go-To-Market Strategy for the semiconductor industry
     description :  description
 
 - project :
@@ -14,8 +14,28 @@
     url :  # Full URL
     image : # path: assets/project/
     date : 2019.08.09
-    title : File Storage Competitive Analysis
-    summary : This is Dummy
+    title : Cloud File Storage Services 
+    summary : "File Storage Services: market research, competitive analysis, cloud intelligence matrix, pricing analysis, and penetration strategy."
+    description :  description
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2018.05.01
+    title : Automation Strategy Program
+    summary : "Product Portfolio: Orchestrated product planning, design, development, testing, deployment, and maintenance."
+    description :  description
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2017.05.01
+    title : "Conversational chatbot #unasolafuerza"
+    summary : "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
     description :  description
 
 - project :
