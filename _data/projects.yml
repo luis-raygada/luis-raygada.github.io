@@ -5,8 +5,8 @@
     image : # path: assets/project/
     date : 2020.04.20
     title : Edge AI & Edge Computing
-    summary : Edge AI Go-To-Market Strategy for the semiconductor industry
-    description :  description
+    summary : 
+    description :  Edge AI Go-To-Market Strategy for the semiconductor industry
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -15,8 +15,8 @@
     image : # path: assets/project/
     date : 2019.08.09
     title : Cloud File Storage Services 
-    summary : "File Storage Services: market research, competitive analysis, cloud intelligence matrix, pricing analysis, and penetration strategy."
-    description :  description
+    summary : 
+    description :  "File Storage Services: market research, competitive analysis, cloud intelligence matrix, pricing analysis, and penetration strategy."
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -25,8 +25,8 @@
     image : # path: assets/project/
     date : 2018.05.01
     title : Automation Strategy Program
-    summary : "Product Portfolio: Orchestrated product planning, design, development, testing, deployment, and maintenance."
-    description :  description
+    summary : 
+    description :  "Product Portfolio: Orchestrated product planning, design, development, testing, deployment, and maintenance."
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -35,8 +35,8 @@
     image : # path: assets/project/
     date : 2017.05.01
     title : "Conversational chatbot #unasolafuerza"
-    summary : "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
-    description :  description
+    summary : 
+    description :  "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
