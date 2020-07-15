@@ -37,7 +37,34 @@
     title : "Conversational chatbot #unasolafuerza"
     summary : 
     description :  "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
-
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2017.05.01
+    title : "Endemic Games"
+    summary : 
+    description :  "Entrepreneurship: landing page, e-commerce, social media, and productivity tools"
+        contents :
+        - title : 1.Landing page
+          description : 
+            <li>Responsive Layout</li>
+            <li>Wordpress Blog</li> 
+            <li>Product Portfolio</li> 
+        - title : 2. E-commerce
+          description : 
+            <li>WooCommerce E-commerce</li> 
+            <li>Payment gateway</li> 
+        - title : 3. Social media
+          url : https://www.facebook.com/endemicgames
+          description : 
+            <li>Facebook landing page</li>
+            <li>Facebook Marketplace</li>
+            <li>Facebook Community</li>
+        - title : 4. Productivity tools
+          description : 
+            <li>G-suite</li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
