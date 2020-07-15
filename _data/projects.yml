@@ -37,6 +37,7 @@
     title : "Conversational chatbot #unasolafuerza"
     summary : 
     description :  "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -46,7 +47,7 @@
     title : "Endemic Games"
     summary : 
     description :  "Entrepreneurship: landing page, e-commerce, social media, and productivity tools"
-        contents :
+    contents :
         - title : 1.Landing page
           description : 
             <li>Responsive Layout</li>
