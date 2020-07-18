@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Pages Product Portfolio for dummies
+title: Github Pages Product Portfolio for dummies - In Progress
 subtitle : Develop your own product portfolio using Github Pages and Jekyl ... for dummies
 tags: [Github Pages, Product Portfolio, How To]
 author: Luis Raygada
