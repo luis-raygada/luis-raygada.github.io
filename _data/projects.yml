@@ -4,7 +4,7 @@
     url :  # Full URL
     image : # path: assets/project/
     date : 2020.04.20
-    title : Edge AI & Edge Computing
+    title : Edge AI Go-To-Market Strategy
     summary : 
     description :  Edge AI Go-To-Market Strategy for the semiconductor industry
 
@@ -90,8 +90,8 @@
     contents :
         - title : 1. Design 
           description : 
-            Feature Backlog - The mobile app included login, golf scoring, stats, leaderboard, rules, and Q&A.
-            UX - Simple and clean user experience.
+            <li>Feature Backlog - The mobile app included login, golf scoring, stats, leaderboard, rules, and Q&A.</li>
+            <li>UX - Simple and clean user experience.</li>
         - title : 2. Implementation
           description : 
              "<li>Front End - HTML,JSP, iframe</li>"
