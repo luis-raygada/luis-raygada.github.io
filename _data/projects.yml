@@ -13,6 +13,16 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
+    date : 2020.04.20
+    title : Mobile App FamilyConnect
+    summary : 
+    description :  Edge AI Go-To-Market Strategy for the semiconductor industry
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
     date : 2019.08.09
     title : Cloud File Storage Services 
     summary : 
@@ -56,7 +66,7 @@
     url :  https://www.facebook.com/endemicgames
     image : # path: assets/project/
     date : 2017.03.01
-    title : "Entrepreneurship: Endemic Games"
+    title : "Entertainment Entrepreneurship: Endemic Games"
     summary : 
     description :  "Created landing page, e-commerce, social media, and productivity tools."
     contents :
