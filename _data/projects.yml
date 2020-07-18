@@ -86,7 +86,17 @@
     date : 2016.10.15
     title : Golf Tournament App
     summary : 
-    description :  "Collaborated with the design and development of a mobile app that included Golf scoring, stats, leaderboard, and rules and Q&A powered by IBM Watson."
+    description :  "Collaborated with the design and development of a mobile app powered by IBM Watson."
+    contents :
+        - title : 1. Design 
+          description : 
+            Feature Backlog - The mobile app included login, golf scoring, stats, leaderboard, rules, and Q&A.
+            UX - Simple and clean user experience.
+        - title : 2. Implementation
+          description : 
+             "<li>Front End - HTML,JSP, iframe</li>"
+             "<li>Back End - IBM Cloud: Java for Liberty, MongoDB ,Watson Conversation, Monitoring Analytics</li>"         
+ 
 #2015
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -154,4 +164,14 @@
           description : 
             <li>Elaborated financial, risk, and competitive analysis</li>
             <li>Investor pitch desk</li>
-            <li>Participated Wayra Lima contest</li>
+            <li>Participated in Wayra Lima contest</li>
+#2011
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2011.03.15
+    title : Infrastructure sales rate calculator
+    summary : 
+    description : Infrastructure sales rate calculator based on space, energy, and infrastructure component such as rack, server, storage. Design - LAMP (Linux + Apache + PHP + MySQL)

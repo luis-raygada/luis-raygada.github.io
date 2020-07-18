@@ -32,12 +32,14 @@ theme_settings :
         end : 2012-03-30
         experience : IBM, IT Developer / IT Specialist
     skills : 
-      - skill : Cloud Computing
-        value : 85  # Percent value
+      - skill : Business & Technology | Cloud Computing
+        value : 86  # Percent value
       - skill : Program Management
-        value : 80  # Percent value
+        value : 82  # Percent value
       - skill : Product Management
-        value : 75  # Percent value
+        value : 78  # Percent value
+      - skill : Entrepreneurship
+        value : 74  # Percent value
         
   # Icons
   icons :
