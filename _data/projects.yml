@@ -7,25 +7,25 @@
     title : "Go-To-Market Strategy - Edge AI & Edge Computing"
     summary : 
     description : "Go-To-Market Strategy for the semiconductor industry in the fragmented $20B edge computing hardware and software markets."
-    # contents :
-    #     - title : 1. Project Methodology
-    #       description : 
-    #          <li>Research Platform - McKinsey & Co, Frost & Sullivan, Gartner, OpenEdge Computing, IOTOnes, Competitor's websites.</li>
-    #          <li>Interviews - Industry and technology experts.</li>
-    #          <li>Bi-Weekly sync-up with mentor/advisor and customer.</li>
-    #     - title : 2. Market, Industry, and Technology Analysis 
-    #       description : 
-    #          <li>Edge Landscape - What is Edge?, Drivers(data, storage), Opportunities, Market Value (including COVID-19 impact)</li>
-    #          <li>Industry highlights, challenges, and key technologies.</li>
-    #          <li>Edge Computing opportunities, drivers, needs per Industry.</li>
-    #          <li>Edge Ecosytem - HW Providers, SW Providers, OEM, ODM, System Integrators, Developers, Edge-AI Platforms</li>             
-    #     - title : 3. Recommendations
-    #      description : 
-    #          <li>Cross-Industry Recommendations</li>
-    #          <li>Industry Recommendations for 1) Travel, Transport & Logistics, 2) Retail, 3) Public Sector & Utilities, 4) Advanced Industries, and 5) Global Energy & Materials</li>
-    #     - title : 4. Next Steps
-    #       description : 
-    #          <li>Paper or blog post about Edge Computing current landscape </li>
+    contents :
+        - title : 1. Project Methodology
+          description : 
+             <li>Research Platform - McKinsey & Co, Frost & Sullivan, Gartner, OpenEdge Computing, IOTOnes, Competitor's websites.</li>
+             <li>Interviews - Industry and technology experts.</li>
+             <li>Bi-Weekly sync-up with mentor/advisor and customer.</li>
+        - title : 2. Market, Industry, and Technology Analysis 
+          description : 
+             <li>Edge Landscape - What is Edge?, Drivers(data, storage), Opportunities, Market Value (including COVID-19 impact)</li>
+             <li>Industry highlights, challenges, and key technologies.</li>
+             <li>Edge Computing opportunities, drivers, needs per Industry.</li>
+             <li>Edge Ecosytem - HW Providers, SW Providers, OEM, ODM, System Integrators, Developers, Edge-AI Platforms</li>             
+        - title : 3. Recommendations
+         description : 
+             <li>Cross-Industry Recommendations</li>
+             <li>Industry Recommendations for 1) Travel, Transport & Logistics, 2) Retail, 3) Public Sector & Utilities, 4) Advanced Industries, and 5) Global Energy & Materials</li>
+        - title : 4. Next Steps
+          description : 
+             <li>Paper or blog post about Edge Computing current landscape </li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
