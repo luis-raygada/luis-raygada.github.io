@@ -32,18 +32,30 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
-    image : # path: assets/project/
+    image : "unasolafuerza.jpg"
     date : 2017.05.01
     title : "Conversational chatbot #unasolafuerza"
     summary : 
     description :  "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
-
+    contents :
+        - title : 1. Design
+          description : 
+             <li>Front End - HTML,JSP</li>
+             <li>Back End - Java,Facebook API, Watson Chatbot</li>
+             <li>AI Training Model - Watson Training Model with 30+ dialog workflows and intent types. </li>
+        - title : 2. Implementation
+          description : 
+             <li>Implemented in 4 days during the natural disaster.</li>
+        - title : 3. Results
+          description : 
+             <li>Decreased government helpdesk workload by automating 1500+ requests per day.</li>
+             <li>Awarded by IBM and the Peruvian Government. </li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://www.facebook.com/endemicgames
     image : # path: assets/project/
-    date : 2017.05.01
+    date : 2017.03.01
     title : "Entrepreneurship: Endemic Games"
     summary : 
     description :  "Created landing page, e-commerce, social media, and productivity tools."
@@ -65,3 +77,36 @@
         - title : 4. Productivity tools
           description : 
             <li>G-suite</li>
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "golf.png" # path: assets/project/
+    date : 2016.10.15
+    title : Golf Tournament App
+    summary : 
+    description :  "Collaborated with the design and development of a mobile app that included Golf scoring, stats, leaderboard, and rules and Q&A powered by IBM Watson."
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  
+    image : "IBM Control Desk Translate.png" # path: assets/project/
+    date : 2015.10.15
+    title : "IBM Control Desk Translate"
+    summary : 
+    description :  "Engineered a cognitive solution using IBM Watson APIs, Cloud services, and IBM Control Desk to maintain customer experience by identifying and translating more than 2.5 M characters per month. "
+    contents :
+        - title : 1. Design
+          description : 
+             <li>Front End - HTML,JSP</li>
+             <li>Back End - Java,Facebook API, Watson Chatbot</li>
+             <li>Back End - Java,Facebook API, Watson Chatbot</li>
+        - title : 2. Implementation
+          description : 
+             <li>AI training model - Implemented a data quality training model based on customer feedback and internal community.</li>
+        - title : 3. Results
+          description : 
+             <li>Decreased government helpdesk workload by automating 1500+ requests per day.</li>
+             <li>Awarded by IBM and the Peruvian Government. </li>
