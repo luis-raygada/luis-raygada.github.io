@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post with Grape-Theme style
-subtitle : How markdown is displayed as html
-tags: [Sample Post, Welcome to the Grape Theme!]
-author: Nayeong Kim
+title: Github Pages Product Portfolio for dummies
+subtitle : Develop your own product portfolio using Github Pages and Jekyl ... for dummies
+tags: [Github Pages, Product Portfolio, How To]
+author: Luis Raygada
 comments : False
 ---
 

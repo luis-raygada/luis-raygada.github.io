@@ -6,8 +6,19 @@
     date : 2020.04.20
     title : Edge AI Go-To-Market Strategy
     summary : 
-    description :  Edge AI Go-To-Market Strategy for the semiconductor industry
-
+    description :  Go-To-Market Strategy for the semiconductor industry in the fragmented $20B edge computing hardware and software markets
+    contents :
+        - title : 1. Design
+          description : 
+             <li>Front End - HTML,JSP</li>
+             <li>Back End - Java,Facebook API, Watson Chatbot</li>
+             <li>AI Training Model - Watson Training Model with 30+ dialog workflows and intent types. </li>
+        - title : 2. Implementation
+          description : 
+             <li>Implemented in 4 days during the natural disaster.</li>
+        - title : 4. Next Steps
+          description : 
+             <li>Paper or blog post about Edge Computing current landscape </li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
