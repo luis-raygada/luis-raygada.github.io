@@ -19,13 +19,13 @@
              <li>Industry highlights, challenges, and key technologies.</li>
              <li>Edge Computing opportunities, drivers, needs per Industry.</li>
              <li>Edge Ecosytem - HW Providers, SW Providers, OEM, ODM, System Integrators, Developers, Edge-AI Platforms</li>             
-        - title : 3. Recommendations        
-         description : 
-             <li>Cross-Industry Recommendations</li>
-             <li>Industry Recommendations for 1) Travel, Transport & Logistics, 2) Retail, 3) Public Sector & Utilities, 4) Advanced Industries, and 5) Global Energy & Materials</li>
-        # - title : 4. Next Steps
-        #   description : 
-        #      <li>Paper or blog post about Edge Computing current landscape </li>
+        # - title : 3. Recommendations        
+        #  description : 
+        #      <li>Cross-Industry Recommendations</li>
+        #      <li>Industry Recommendations for 1) Travel, Transport & Logistics, 2) Retail, 3) Public Sector & Utilities, 4) Advanced Industries, and 5) Global Energy & Materials</li>
+        - title : 4. Next Steps
+          description : 
+             <li>Paper or blog post about Edge Computing current landscape </li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
