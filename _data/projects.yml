@@ -94,8 +94,8 @@
             <li>UX - Simple and clean user experience.</li>
         - title : 2. Implementation
           description : 
-             "<li>Front End - HTML,JSP, iframe</li>"
-             "<li>Back End - IBM Cloud: Java for Liberty, MongoDB ,Watson Conversation, Monitoring Analytics</li>"         
+             <li>Front End - HTML,JSP, iframe</li>
+             <li>Back End - IBM Cloud (Java for Liberty, MongoDB ,Watson Conversation, Monitoring Analytics)</li>         
  
 #2015
 - project :
