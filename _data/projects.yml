@@ -17,7 +17,7 @@
     title : Cloud File Storage Services 
     summary : 
     description :  "File Storage Services: market research, competitive analysis, cloud intelligence matrix, pricing analysis, and penetration strategy."
-
+#2018
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -27,7 +27,7 @@
     title : Automation Strategy Program
     summary : 
     description :  "Product Portfolio: Orchestrated product planning, design, development, testing, deployment, and maintenance."
-
+#2017
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -77,7 +77,7 @@
         - title : 4. Productivity tools
           description : 
             <li>G-suite</li>
-
+#2016
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -87,7 +87,7 @@
     title : Golf Tournament App
     summary : 
     description :  "Collaborated with the design and development of a mobile app that included Golf scoring, stats, leaderboard, and rules and Q&A powered by IBM Watson."
-
+#2015
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -110,3 +110,48 @@
           description : 
              <li>Decreased government helpdesk workload by automating 1500+ requests per day.</li>
              <li>Awarded by IBM and the Peruvian Government. </li>
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://www.youtube.com/watch?v=idAFiiJjWuo # Full URL
+    image :  # path: assets/project/
+    date : 2015.11.01
+    title : IBM Smart Energy Management Services (SEMS)
+    summary : 
+    description :  "Collaborated with IBM TSS to design, build, and operate the IBM Smart Energy Management."
+    contents :
+        - title : 1. Design
+          description : 
+             <li>Front End - IBM Control Desk</li>
+             <li>Back End - IBM Netcool Omnibus, Eniscope EMS</li>
+             <li>IoT Device - Eniscope EMS Hardware</li>
+        - title : 2. Implementation
+          description : 
+             <li>AI training model - Implemented a data quality training model based on customer feedback and internal community.</li>
+
+#2014
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://www.youtube.com/watch?v=2CfUmANWy8c
+    image : # path: assets/project/
+    date : 2014.11.01
+    title : "Entrepreneurship: Qiwiri taxi app"
+    summary : 
+    description :  "Customer discovery, MVP, and business plan for a taxi app in the Peruvian market."
+    contents :
+        - title : 1.Customer Disvoery
+          description : 
+            <li>Customer interview</li>
+            <li>Customer survey</li> 
+            <li>Market analysis</li> 
+        - title : 2. MVP/MAP
+          description : 
+            <li>Landing page</li> 
+            <li>Android native app</li> 
+        - title : 3. Business Plan
+          description : 
+            <li>Elaborated financial, risk, and competitive analysis</li>
+            <li>Investor pitch desk</li>
+            <li>Participated Wayra Lima contest</li>
