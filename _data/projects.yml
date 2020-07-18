@@ -2,8 +2,8 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
-    image : "edgeAI.png"  # path: assets/project/
-    date : 2020.04.30
+    image : "EdgeAI.png"  # path: assets/project/
+    date : 2020.01.20 - 2020.04.30
     title : "Go-To-Market Strategy - Edge AI & Edge Computing"
     summary : 
     description : "Go-To-Market Strategy for the semiconductor industry in the fragmented $20B edge computing hardware and software markets."
