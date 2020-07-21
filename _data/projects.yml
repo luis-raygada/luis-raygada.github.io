@@ -53,7 +53,7 @@
              <li>Implementation - Develop main features such as registration & authentication, main activity page, chat room, and speech recognizion & speech synthesis.</li>
         - title : Next Steps
           description : 
-             <li>Identified unmet user needs for the 19M senior people segement in the US.</li>
+             <li>Identified unmet user needs for the 19M senior people segment in the US.</li>
              <li>Iterate based on the MVP findings and user feedback.</li>         
 
 - project :
@@ -64,7 +64,7 @@
     date : 2019.08.09
     title : "Competitive Analysis - Cloud File Storage Services" 
     summary : 
-    description :  "Conducted thorough market research, competitive analysis, cloud intelligence matrix, and penetration strategy."
+    description :  "Conducted thorough market research, competitive analysis, cloud intelligence matrix, and penetration strategy for File Storage services."
     contents :
         - title : Strategic Thinking
           description : Conducted thorough market research, competitive analysis, and pricing analysis across cloud and on-premise file storage solutions to pursue 45 EB target market, identify product gaps, and meet customer’s needs by collaborating with sales, marketing, and engineering teams. 
@@ -87,13 +87,14 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : "unasolafuerza.jpg"
-    date : 2017.05.01
-    title : "Conversational chatbot #unasolafuerza"
+    date : 2017.03
+    title : "#unasolafuerza crisis response - IBM Peru chatbot "
     summary : 
-    description :  "Conversational chatbot during a natural disaster to automate government helpdesk: design and implementation"
+    description :  "Improved government helpdesk response time to affected citizens during 'El Niño' phenomenon by implementing a chatbot: design and implementation"
     contents :
         - title : 1. Design
           description : 
+             <li>UX - Working session with goverment to define the use cases and chatbot workflows.</li>
              <li>Front End - HTML,JSP</li>
              <li>Back End - Java,Facebook API, Watson Chatbot</li>
              <li>AI Training Model - Watson Training Model with 30+ dialog workflows and intent types. </li>
@@ -103,17 +104,21 @@
         - title : 3. Results
           description : 
              <li>Decreased government helpdesk workload by automating 1500+ requests per day.</li>
-             <li>Awarded by IBM and the Peruvian Government. </li>
+             <li>Awarded by IBM and the Peruvian Ministry of Defense. </li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://www.facebook.com/endemicgames
     image : # path: assets/project/
     date : 2017.03.01
-    title : "Entertainment Co-Founder: Endemic Games"
+    title : "Product Development - Board Game Llamagedon"
     summary : 
-    description :  "Created a Board Game company ."
+    description :  "Created a "
     contents :
+        - title : Methodology
+          description : 
+            <li>Design Thinking</li>
+            <li>Lean Startup</li>
         - title : 1. Landing page
           description : 
             <li>Responsive Layout</li>
@@ -138,9 +143,9 @@
     url :  # Full URL
     image : "golf.png" # path: assets/project/
     date : 2016.10.15
-    title : Golf Tournament App
+    title : IBM Volunteer - Golf Tournament App
     summary : 
-    description :  "Collaborated with the design and development of a mobile app powered by IBM Watson."
+    description :  "Increased Peruvian C-level executies awareness of IBM Watson by collaborating with the design and development of a mobile app powered by IBM Watson."
     contents :
         - title : 1. Design 
           description : 
@@ -158,9 +163,9 @@
     url :  
     image : "IBM Control Desk Translate.png" # path: assets/project/
     date : 2015.10.15
-    title : "IBM Control Desk Translate"
+    title : "Language translation solution - smiTranslate"
     summary : 
-    description :  "Engineered a cognitive solution using IBM Watson APIs, Cloud services, and IBM Control Desk to maintain customer experience by identifying and translating more than 2.5 M characters per month. "
+    description :  "Engineered a cognitive solution using IBM Watson and IBM Cloud services to maintain +100 customer experience in IBM Control Desk."
     contents :
         - title : 1. Design
           description : 
@@ -183,7 +188,7 @@
     date : 2015.11.01
     title : IBM Smart Energy Management Services (SEMS)
     summary : 
-    description :  "Collaborated with IBM TSS to design, build, and operate the IBM Smart Energy Management."
+    description :  "Collaborated with IBM TSS to design, build, and operate the IBM Smart Energy Management service."
     contents :
         - title : 1. Design
           description : 
@@ -203,16 +208,17 @@
     date : 2014.11.01
     title : "Entrepreneurship: Qiwiri taxi app"
     summary : 
-    description :  "Customer discovery, MVP, and business plan for a taxi app in the Peruvian market."
+    description :  "Executed customer discovery, product development, and business plan for introducing a taxi app in the Peruvian market."
     contents :
         - title : 1.Customer Disvoery
           description : 
             <li>Customer interview</li>
             <li>Customer survey</li> 
             <li>Market analysis</li> 
-        - title : 2. MVP/MAP
+        - title : 2. Product development
           description : 
-            <li>Landing page</li> 
+            <li>Landing page, video content, and social media.</li> 
+            <li>MAP/MVP</li> 
             <li>Android native app</li> 
         - title : 3. Business Plan
           description : 
@@ -221,11 +227,23 @@
             <li>Participated in Wayra Lima contest</li>
 #2011
 - project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
     date : 2011.03.15
-    title : Infrastructure sales rate calculator
+    title : Data center infrastructure sales rate calculator
     summary : 
-    description : Infrastructure sales rate calculator based on space, energy, and infrastructure component such as rack, server, storage. Design - LAMP (Linux + Apache + PHP + MySQL)
+    description : Improved time to market by developing a sales rate calculator webapp to help the sales and infrastructure team. 
+    contents :
+        - title : Design
+          description : 
+            <li>Developed wireframes and low-fidelity design.</li>
+            <li>Database and application design.</li>
+            <li>Use Case analysis</li>
+        - title : Development
+          description : 
+            <li>Developed the application re-using a LAMP (Linux + Apache + PHP + MySQL) architecture.</li>
+        - title : Results
+          description : 
+            <li>Automated manual process to calculate the price and cost of an infrastructure component inside the Datacenter.</li>
