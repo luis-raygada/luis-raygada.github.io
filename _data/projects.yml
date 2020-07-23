@@ -34,8 +34,7 @@
     date : "2020.01.20 - 2020.04.30"
     title : Mobile & IoT - FamilyPlus
     summary : 
-    description : "Messaging app focused on improving Senior UX and bridging the communication gap between generations by using NLU, NLP, and TTS technology."
-
+    description : "Messaging app focused on bridging the communication gap between generations by using NLU, NLP, and TTS technology."
     contents :
         - title : Cross-Functional Teamwork
           description : 
@@ -60,8 +59,8 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.08.09
+    image : "fileStorage.png" # path: assets/project/
+    date : "2019.05.20 - 2019.08.09"
     title : "Competitive Analysis - Cloud File Storage Services" 
     summary : 
     description :  "Conducted thorough market research, competitive analysis, cloud intelligence matrix, and penetration strategy for File Storage services."
@@ -77,17 +76,17 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
-    date : 2018.05.01
+    date : "2017.04.01 - 2018.07.30"
     title : Automation Strategy Program
     summary : 
     description :  "Orchestrated service management and monitoring product planning, design, development, testing, launch, and operation for a Banking account."
     contents :
         - title : Program Management
           description : Orchestrated contractual deliverables on budget and on time for Peru’s biggest account by using both Agile (Scrum) and Waterfall (PMP) methodologies. Managed product plan, budget, risk, staffing, resources, and vendors.
-        - title : Analytical Thinking
-          description : Slashed implementation time by 50% and license cost by 30% on a Business Service Level Agreement project by proposing a new solution architecture and optimized critical banking transaction metrics of success (KPIs).
         - title : Customer Success
           description : Led an Enterprise AI automation implementation by understanding the customer environment, breaking down the automation and security requirements, integrating with customer’s backend, implementing automation scripts, and creating metrics of success. Automated 30% of tickets, reduced MTTR of incidents by 15%, and decreased costs by 20%.
+        - title : Analytical Thinking
+          description : Slashed implementation time by 50% and license cost by 30% on a Business Service Level Agreement project by proposing a new solution architecture and optimized critical banking transaction metrics of success (KPIs).
 #2017
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -97,7 +96,7 @@
     date : 2017.03
     title : "#unasolafuerza crisis response - IBM Peru chatbot "
     summary : 
-    description :  "Improved government helpdesk response time to affected citizens during 'El Niño' phenomenon by implementing a chatbot: design and implementation"
+    description :  "Improved government response time to affected citizens by implementing a conversational chatbot during 'El Niño' phenomenon."
     contents :
         - title : 1. Design
           description : 
@@ -115,34 +114,24 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://www.facebook.com/endemicgames
-    image : # path: assets/project/
+    url :  https://www.facebook.com/llamagedon
+    image : "llamagedon.png" # path: assets/project/
     date : 2017.03.01
-    title : "Product Development - Board Game Llamagedon"
+    title : "Product Design and Development - Llamagedon"
     summary : 
-    description :  "Created a "
+    Collaborated in the business development and product management of board game “Llamagedon” in Peru, 
+    
+    description :  "Product design and development of board game Llamagedon, achieving excellent customer experience with 7.4/10 stars in BoardGameGeek."
     contents :
-        - title : Methodology
+        - title : Entrepreneurial Drive
+          description : Elaborated product development project plan of the board game “Llamagedon” delivering outstanding results by receiving 5/5 stars on FB, selling out inventory, and new revenue pipeline for 5+ years. 
+        - title : Llamagedon Project
           description : 
-            <li>Design Thinking</li>
-            <li>Lean Startup</li>
-        - title : 1. Landing page
-          description : 
-            <li>Responsive Layout</li>
-            <li>Wordpress Blog</li> 
-            <li>Product Portfolio</li> 
-        - title : 2. E-commerce
-          description : 
-            <li>WooCommerce E-commerce</li> 
-            <li>Payment gateway</li> 
-        - title : 3. Social media
-          description : 
-            <li>Facebook landing page</li>
-            <li>Facebook Marketplace</li>
-            <li>Facebook Community</li>
-        - title : 4. Productivity tools
-          description : 
-            <li>G-suite</li>
+            <li>Methodology - Design Thinking, Lean Startup.</li>
+            <li>Landing page - Responsive Layout, Wordpress Blog, Product Portfolio.</li> 
+            <li>E-commerce implementation - WooCommerce E-commerce, Payment gateway.</li> 
+            <li>Social media - Facebook landing page, Facebook Marketplace, Facebook Community.</li>
+            <li>Productivity tools - Bluehost, G-suite.</li>
 #2016
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -152,7 +141,7 @@
     date : 2016.10.15
     title : IBM Volunteer - Golf Tournament App
     summary : 
-    description :  "Increased Peruvian C-level executies awareness of IBM Watson by collaborating with the design and development of a mobile app powered by IBM Watson."
+    description :  "Increased IBM Watson awareness of C-level executives by collaborating with the design and development of a mobile app."
     contents :
         - title : 1. Design 
           description : 
@@ -172,7 +161,7 @@
     date : 2015.10.15
     title : "Language translation solution - smiTranslate"
     summary : 
-    description :  "Engineered a cognitive solution using IBM Watson and IBM Cloud services to maintain +100 customer experience in IBM Control Desk."
+    description :  "Engineered a cognitive solution using IBM Watson and IBM Cloud services to improve +100 customer experience in IBM Control Desk."
     contents :
         - title : 1. Design
           description : 
