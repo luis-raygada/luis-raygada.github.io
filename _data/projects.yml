@@ -37,12 +37,12 @@
     description : "Messaging app focused on improving Senior UX and bridging the communication gap between generations by using NLU, NLP, and TTS technology."
 
     contents :
-        - title : Team Roles
+        - title : Cross-Functional Teamwork
           description : 
-             <li>CMU - MBA student</li>
-             <li>CMU - Human Computer Interaction (HCI) student</li>
-             <li>CMU - Information Networking Institute (INI)</li>
-        - title : Project Research
+             <li>Business Designer, CMU - Tepper Schoool of Business (MBA)</li>
+             <li>UX Designer, CMU - Human Computer Interaction (HCI)</li>
+             <li>SW Engineering / SW Architecture, CMU - Information Networking Institute(INI)</li>
+        - title : Project Methodology
           description : 
              <li>User Research - Identify user persona, conduct surveys and interviews, and present findings.</li>
              <li>Problem Analysis - Identify user problems and pain points, perform problem prioritization, and choose problem to solve.</li> 
@@ -51,7 +51,7 @@
              <li>Architecture - High-level architecture, network communication, and data storage definition.</li>
              <li>Privacy & Security Analysis - Elaborate Privacy Impact Assessment(PIA), risk assessment, and detailed privacy and security documentation.</li>
              <li>Implementation - Develop main features such as registration & authentication, main activity page, chat room, and speech recognizion & speech synthesis.</li>
-        - title : Next Steps
+        - title : Findings and Next Steps
           description : 
              <li>Identified unmet user needs for the 19M senior people segment in the US.</li>
              <li>Iterate based on the MVP findings and user feedback.</li>         
@@ -80,7 +80,14 @@
     date : 2018.05.01
     title : Automation Strategy Program
     summary : 
-    description :  "Product Portfolio: Orchestrated product planning, design, development, testing, deployment, and maintenance."
+    description :  "Orchestrated service management and monitoring product planning, design, development, testing, launch, and operation for a Banking account."
+    contents :
+        - title : Program Management
+          description : Orchestrated contractual deliverables on budget and on time for Peru’s biggest account by using both Agile (Scrum) and Waterfall (PMP) methodologies. Managed product plan, budget, risk, staffing, resources, and vendors.
+        - title : Analytical Thinking
+          description : Slashed implementation time by 50% and license cost by 30% on a Business Service Level Agreement project by proposing a new solution architecture and optimized critical banking transaction metrics of success (KPIs).
+        - title : Customer Success
+          description : Led an Enterprise AI automation implementation by understanding the customer environment, breaking down the automation and security requirements, integrating with customer’s backend, implementing automation scripts, and creating metrics of success. Automated 30% of tickets, reduced MTTR of incidents by 15%, and decreased costs by 20%.
 #2017
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 

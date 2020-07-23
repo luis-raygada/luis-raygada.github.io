@@ -38,7 +38,7 @@ theme_settings :
         value : 82  # Percent value
       - skill : Product Management
         value : 78  # Percent value
-      - skill : Entrepreneurship
+      - skill : Entrepreneurship | Business Design
         value : 74  # Percent value
         
   # Icons
