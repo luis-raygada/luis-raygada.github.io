@@ -135,11 +135,11 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
-    image : "golf.png" # path: assets/project/
+    image : "golf2.png" # path: assets/project/
     date : 2016.10.15
     title : IBM Volunteer - Golf Tournament App
     summary : 
-    description :  "Increased IBM Watson awareness of C-level executives by collaborating with the design and development of a mobile app."
+    description :  "Increased IBM Watson awareness of C-level executives by collaborating with the design and development of a Golf mobile app."
     contents :
         - title : 1. Design 
           description : 
