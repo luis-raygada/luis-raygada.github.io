@@ -122,12 +122,13 @@
     description :  "Product design and development of board game Llamagedon, achieving excellent customer experience with 7.4/10 stars in BoardGameGeek."
     contents :
         - title : Entrepreneurial Drive
-          description : Elaborated product development project plan of the board game Llamagedon delivering outstanding results by receiving 5/5 stars on FB, selling out inventory, and new revenue pipeline for 5+ years. 
+          description : Product development of the board game Llamagedon delivering outstanding results by receiving 5/5 stars on FB, selling out inventory, and revenue pipeline for 3+ years. 
         - title : Llamagedon Project
           description : 
             <li>Methodology - Design Thinking, Lean Startup.</li>
-            <li>Landing page - Responsive Layout, Wordpress Blog, Product Portfolio.</li> 
-            <li>E-commerce implementation - WooCommerce E-commerce, Payment gateway.</li> 
+            <li>Product Design - Game design, low-fidelity prototype, user testing and feedback, iteration, high-fidelity prototype, user testing and feedback, iteration, production.</li>
+            <li>Landing page - Created using wordpress with a responsive layout. The landing page included a Blog and the product portfolio.</li> 
+            <li>E-commerce implementation using WooCommerce platform and integrating with payment gateway and delivery service.</li> 
             <li>Social media - Facebook landing page, Facebook Marketplace, Facebook Community.</li>
             <li>Productivity tools - Bluehost, G-suite.</li>
 #2016
