@@ -34,7 +34,7 @@ theme_settings :
     skills : 
       - skill : Business & Technology | Cloud Computing
         value : 86  # Percent value
-      - skill : Program Management
+      - skill : Program Management | Agile | Waterfall
         value : 82  # Percent value
       - skill : Product Management
         value : 78  # Percent value
