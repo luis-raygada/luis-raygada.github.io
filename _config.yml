@@ -13,6 +13,11 @@ theme_settings :
     username : Luis Raygada
     description : Hi, I’m Luis, I am an MBA graduate, systems engineer, and entrepreneur. I thrive in fast-paced, innovative organizations where I can use my leadership and problem-solving skills to solve complex challenges.
     experience :
+      - start : 2021-02-15
+        experience : Cigna, Sr. Product Management Senior Manager
+      - start : 2020-09-01
+        end : 2021-02-14
+        experience : Cigna, Agile Product Manager Senior Advisor
       - start : 2020-01-20
         end : 2020-04-30
         experience : Micron, Edge Computing Consultant (MBA Capstone Project)
